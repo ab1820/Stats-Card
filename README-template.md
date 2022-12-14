@@ -1,3 +1,4 @@
+
 # Frontend Mentor - Stats preview card component solution
 
 ## Table of contents
@@ -24,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-
+![Stats-Card](https://user-images.githubusercontent.com/114027684/207712418-a5ef64f1-fcc6-47db-a3a2-fe88aff58b61.png)
 
 ### Links
 
