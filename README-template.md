@@ -37,9 +37,11 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ### What I learned
+- I am still learning about overlays with CSS. Unfortunately no matter what I have tried looking up, researching, messing around with, I cannot seem to remove the purple line underneath the image. 
+- Any advice would be greatly appreciated!!
+
 
 ### Continued development
 
